@@ -1,0 +1,4 @@
+<> -- tag
+<h1> -- tag name or element
+<h1> --> open tag   
+</h1> --> close tag
